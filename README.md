@@ -14,8 +14,8 @@
 
 ### Tela inicial
 
-<img src="Capturar.PNG" alt="Tela inicial do projeto de doação de sangue" style="align-items:center">
+<img src="Capturar.PNG" alt="Tela inicial do projeto de doação de sangue" style="max-width:100%;width:58%;">
 
 ### Formulário de cadastro
 
-<img src="Capturar(1).PNG" alt="Formulário de cadastro de doação" style="align-items:center">
+<img src="Capturar(1).PNG" alt="Formulário de cadastro de doação" style="max-width:100%;width: 58%;">
