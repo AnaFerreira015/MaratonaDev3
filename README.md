@@ -2,9 +2,13 @@
 
 ## Aplicação criada durante o MaratonaDev - 3ª edição
 
-## Para rodar a aplicação
+## Para instalar as dependências
 
 ``npm install`` 
+
+## Para rodar a aplicação
+
+``nodemon server.js``
 
 ## Este projeto utilizou:
 
